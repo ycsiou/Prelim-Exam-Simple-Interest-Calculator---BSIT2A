@@ -1,0 +1,7 @@
+C:\Users\1\source\repos\SimpleInterestCalculator\obj\Debug\SimpleInterestCalculator.csproj.AssemblyReference.cache
+C:\Users\1\source\repos\SimpleInterestCalculator\obj\Debug\SimpleInterestCalculator.csproj.CoreCompileInputs.cache
+C:\Users\1\source\repos\SimpleInterestCalculator\bin\Debug\SimpleInterestCalculator.exe.config
+C:\Users\1\source\repos\SimpleInterestCalculator\bin\Debug\SimpleInterestCalculator.exe
+C:\Users\1\source\repos\SimpleInterestCalculator\bin\Debug\SimpleInterestCalculator.pdb
+C:\Users\1\source\repos\SimpleInterestCalculator\obj\Debug\SimpleInterestCalculator.exe
+C:\Users\1\source\repos\SimpleInterestCalculator\obj\Debug\SimpleInterestCalculator.pdb
